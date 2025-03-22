@@ -1,3 +1,3 @@
-FROM eclipse/geoserver:2.22.2
+FROM kartoza/geoserver:2.22
 
 EXPOSE 8080
